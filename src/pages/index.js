@@ -263,7 +263,7 @@ function Home() {
         <h2> Special Thanks to our Sponsors ❤️ - <a href="https://opencollective.com/koin#sponsors">Open Collective</a></h2>
             <div className="container" height="240">
                 <a href="https://getstream.io/chat/sdk/android/?utm_source=koin&utm_medium=sponsorship&utm_content=developer"><img className={styles.indexCtasGitHubButton} src="/img/sponsors/stream-logo.png" width="210"/></a>
-                <a href=""><img className={styles.indexCtasGitHubButton} src="/img/sponsors/hex.png" width="210"/></a>
+                <a href="https://onlinecasinohex.ca/"><img className={styles.indexCtasGitHubButton} src="/img/sponsors/hex2.png" width="210"/></a>
             </div>
         </section>   
         <br/>
